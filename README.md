@@ -5,4 +5,5 @@ It has four categories to choose the word from namely animals,fruits,vegetables 
 Rules will be displayed at time start of the game.
 You can add more categories by adding more lists in the code and creating a way to choose from it like the other categories.
 Hope you enjoy.
+
 Welcome to the HANGMAN(or Snowman your choice).
